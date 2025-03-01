@@ -16,10 +16,21 @@ Payment Mode:
 Regional Performance:
 - The West region leads, contributing 33% of total sales.
 Customer Segments:
--The Consumer segment contributed the highest share at 48%.
+- The Consumer segment contributed the highest share at 48%.
 
--Dashboard Interaction and Features <a href="https://github.com/adiyantproject/PowerBI-SuperStore-Sales-Dashboard/blob/main/Screenshot%202025-02-23%20210717.png">View Dashboard</a>
+## Dashboard Interaction and Features 
+<a href="https://github.com/adiyantproject/PowerBI-SuperStore-Sales-Dashboard/blob/main/Screenshot%202025-02-23%20210717.png">View Dashboard</a>
 
 - Profit Trends by Month: A dynamic view of profit performance over the months.
 - Sales Trends by State: Insight into sales performance across different states.
 - Regional Performance Insights: Helps identify strong and weak regions to target future growth opportunities.
+  ## Skills & Tools Used:
+- Power BI: Data visualization and interactive dashboard creation.
+- DAX Calculations: Used to create complex calculations for metrics like total sales and profit margins.
+- Data Transformation: Managed and cleaned raw data to ensure meaningful insights.
+- Interactive Filters: Enabled slicers and drill-through options to help users dive deep into specific regions, categories, and sales data.
+## Skills & Tools Used:
+- Power BI: Data visualization and interactive dashboard creation.
+- DAX Calculations: Used to create complex calculations for metrics like total sales and profit margins.
+- Data Transformation: Managed and cleaned raw data to ensure meaningful insights.
+- Interactive Filters: Enabled slicers and drill-through options to help users dive deep into specific regions, categories, and sales data.
