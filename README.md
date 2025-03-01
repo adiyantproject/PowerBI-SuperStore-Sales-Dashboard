@@ -34,3 +34,5 @@ Customer Segments:
 - DAX Calculations: Used to create complex calculations for metrics like total sales and profit margins.
 - Data Transformation: Managed and cleaned raw data to ensure meaningful insights.
 - Interactive Filters: Enabled slicers and drill-through options to help users dive deep into specific regions, categories, and sales data.
+## Dashborad
+https://github.com/adiyantproject/PowerBI-SuperStore-Sales-Dashboard/blob/main/Screenshot%202025-02-23%20210717.png
