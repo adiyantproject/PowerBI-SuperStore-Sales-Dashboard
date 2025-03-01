@@ -1,16 +1,14 @@
 # Super-Store-Sales-Dashboard  (Power BI Project)
-
 ## Overview
-
 Excited to share my latest Power BI project—Super Store Sales Dashboard! This interactive dashboard offers key insights into sales performance across various dimensions and is designed to help businesses make informed decisions based on data-driven insights.
 ## Dataset Used
-- <a href="ttps://github.com/adiyantproject/PowerBI-SuperStore-Sales-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx">Dataset</a>
+- <a href="https://github.com/adiyantproject/PowerBI-SuperStore-Sales-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx">Dataset</a>
 
 ## Key Metrics 
-Total Sales: $2M
-Quantity Sold: 22,000
-Average Delivery Time: 175K
-Shipping Days: 4
+- Total Sales: $2M
+- Quantity Sold: 22,000
+- Average Delivery Time: 175K
+- Shipping Days: 4
 ## Sales Insights
 Payment Mode:
 - 43% of sales were made via COD.
